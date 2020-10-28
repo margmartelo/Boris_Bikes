@@ -5,5 +5,6 @@ class DockingStation
 end
 
 class Bike
-
-end 
+  def working?
+  end
+end
