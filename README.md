@@ -10,4 +10,4 @@ https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.
 boris_bikes.rb
 ```
 
-## Josh is working now ##
+## Updated to Josh's github ##
