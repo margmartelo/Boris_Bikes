@@ -1,6 +1,6 @@
 class DockingStation
   def release_bike
-    "bike"
+    return "bike"
   end
 end
 
